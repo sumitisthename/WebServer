@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303051764844193084/78fd548982ce4b7cb551c37c5dbd66a9/artifacts
+end_time: 1753127343461
+entry_point_name: ''
+experiment_id: '303051764844193084'
+lifecycle_stage: active
+run_id: 78fd548982ce4b7cb551c37c5dbd66a9
+run_name: polite-shrike-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753127343180
+status: 3
+tags: []
+user_id: sumit

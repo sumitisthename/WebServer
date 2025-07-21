@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/303051764844193084
+creation_time: 1753127342704
+experiment_id: '303051764844193084'
+last_update_time: 1753127342704
+lifecycle_stage: active
+name: Check local host tracking

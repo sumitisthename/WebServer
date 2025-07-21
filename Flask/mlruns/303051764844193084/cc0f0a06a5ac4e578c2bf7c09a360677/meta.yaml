@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303051764844193084/cc0f0a06a5ac4e578c2bf7c09a360677/artifacts
+end_time: 1753128175650
+entry_point_name: ''
+experiment_id: '303051764844193084'
+lifecycle_stage: active
+run_id: cc0f0a06a5ac4e578c2bf7c09a360677
+run_name: debonair-pug-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753128175369
+status: 3
+tags: []
+user_id: sumit
