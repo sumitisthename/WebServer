@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303051764844193084/3ce3771038d44af59d0c9ea67dd986bd/artifacts
+end_time: 1753128225393
+entry_point_name: ''
+experiment_id: '303051764844193084'
+lifecycle_stage: active
+run_id: 3ce3771038d44af59d0c9ea67dd986bd
+run_name: capable-lamb-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753128225180
+status: 3
+tags: []
+user_id: sumit
