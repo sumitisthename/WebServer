@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/201854769225985130
+creation_time: 1753293084775
+experiment_id: '201854769225985130'
+last_update_time: 1753293084775
+lifecycle_stage: active
+name: Iris Flower Classification Experiment

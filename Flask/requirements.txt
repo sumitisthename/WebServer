@@ -1,3 +1,6 @@
 mlflow
 flask
 requests
+scikit-learn
+numpy
+pandas
