@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/201854769225985130/02983bdbb703435692ef4b8ffe27fa7d/artifacts
+end_time: 1753293086165
+entry_point_name: ''
+experiment_id: '201854769225985130'
+lifecycle_stage: active
+run_id: 02983bdbb703435692ef4b8ffe27fa7d
+run_name: exultant-hog-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753293086049
+status: 4
+tags: []
+user_id: sumit
