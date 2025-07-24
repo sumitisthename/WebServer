@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/201854769225985130/2ef17d846b104ba08e89b1951bfa1ce4/artifacts
+deleted_time: 1753379429911
 end_time: 1753296432238
 entry_point_name: ''
 experiment_id: '201854769225985130'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2ef17d846b104ba08e89b1951bfa1ce4
 run_name: caring-boar-796
 source_name: ''

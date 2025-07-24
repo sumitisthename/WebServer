@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/201854769225985130/b5392905fb2a40c7b81bc47686e3cb27/artifacts
+end_time: 1753379203610
+entry_point_name: ''
+experiment_id: '201854769225985130'
+lifecycle_stage: active
+run_id: b5392905fb2a40c7b81bc47686e3cb27
+run_name: entertaining-cub-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753379193897
+status: 3
+tags: []
+user_id: sumit

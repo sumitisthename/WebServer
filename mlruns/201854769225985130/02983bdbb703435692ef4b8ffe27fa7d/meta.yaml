@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/201854769225985130/02983bdbb703435692ef4b8ffe27fa7d/artifacts
+deleted_time: 1753379429933
 end_time: 1753293086165
 entry_point_name: ''
 experiment_id: '201854769225985130'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 02983bdbb703435692ef4b8ffe27fa7d
 run_name: exultant-hog-159
 source_name: ''
