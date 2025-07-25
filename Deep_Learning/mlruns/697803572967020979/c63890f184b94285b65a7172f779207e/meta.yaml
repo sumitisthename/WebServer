@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Sumit_Documents/Projects/Flask/Deep_Learning/mlruns/697803572967020979/c63890f184b94285b65a7172f779207e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '697803572967020979'
+lifecycle_stage: active
+run_id: c63890f184b94285b65a7172f779207e
+run_name: persistent-mouse-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753461422499
+status: 1
+tags: []
+user_id: sumit
