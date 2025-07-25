@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Sumit_Documents/Projects/Flask/Deep_Learning/mlruns/697803572967020979/959cb02317474340b3e730dc9f88c7a8/artifacts
+end_time: 1753460463359
+entry_point_name: ''
+experiment_id: '697803572967020979'
+lifecycle_stage: active
+run_id: 959cb02317474340b3e730dc9f88c7a8
+run_name: amazing-mouse-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753460279804
+status: 4
+tags: []
+user_id: sumit

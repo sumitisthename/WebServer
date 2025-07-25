@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/201854769225985130/5843878df4c4410c89a0b1823ed22fc6/artifacts
+end_time: 1753379211591
+entry_point_name: ''
+experiment_id: '201854769225985130'
+lifecycle_stage: active
+run_id: 5843878df4c4410c89a0b1823ed22fc6
+run_name: selective-kit-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753379203881
+status: 3
+tags: []
+user_id: sumit

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/201854769225985130/c3609181d62640f49af3c300e4f8c583/artifacts
+deleted_time: 1753379429927
 end_time: 1753293110240
 entry_point_name: ''
 experiment_id: '201854769225985130'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c3609181d62640f49af3c300e4f8c583
 run_name: nebulous-hare-56
 source_name: ''

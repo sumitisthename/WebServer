@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/201854769225985130/ee9882bdaa834b70848bed86a8405189/artifacts
+end_time: 1753379190437
+entry_point_name: ''
+experiment_id: '201854769225985130'
+lifecycle_stage: active
+run_id: ee9882bdaa834b70848bed86a8405189
+run_name: capricious-dove-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753379099209
+status: 3
+tags: []
+user_id: sumit

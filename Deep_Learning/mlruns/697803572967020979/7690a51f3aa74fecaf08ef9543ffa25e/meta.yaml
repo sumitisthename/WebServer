@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Sumit_Documents/Projects/Flask/Deep_Learning/mlruns/697803572967020979/7690a51f3aa74fecaf08ef9543ffa25e/artifacts
+end_time: 1753461152577
+entry_point_name: ''
+experiment_id: '697803572967020979'
+lifecycle_stage: active
+run_id: 7690a51f3aa74fecaf08ef9543ffa25e
+run_name: enthused-worm-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753460822790
+status: 4
+tags: []
+user_id: sumit
